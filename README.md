@@ -55,7 +55,7 @@ To get started with the **World Layoffs** project, follow these steps:
 ### 1. Clone the repository:
 
 
-git clone https://github.com/AryanSharma0883/World-Layoffs.git
+git clone https://github.com/Sidharth76/World-Layoffs.git
 
 
 2. Set up MySQL database:
@@ -120,5 +120,5 @@ CREATE TABLE layoffs (
 
 If you have any questions or suggestions, feel free to open an issue or contact the repository owner directly.
 
-- GitHub: [@AryanSharma0883](https://github.com/AryanSharma0883)
+- GitHub: [@Sidharth76](https://github.com/sidharth76)
 ```
