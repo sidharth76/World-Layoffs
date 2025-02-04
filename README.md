@@ -2,7 +2,7 @@
 
 🌍 World Layoffs Project 📉
 
-The **World Layoffs** project provides insights into the global trend of layoffs across industries. The project uses MySQL to store and manage data related to employee layoffs in various companies. By analyzing this data, we aim to track and visualize the impact of job losses around the world.
+The **World Layoffs** project provides insights into the global trend of layoffs across industries. The project uses MySQL to store and manage data related to employee layoffs in various companies. By analyzing this data, i aim to track and visualize the impact of job losses around the world.
 
 This repository includes a comprehensive database structure for storing layoff-related data, as well as scripts for data insertion and querying.
 
